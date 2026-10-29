@@ -4,11 +4,4 @@ Aplikasi produktivitas harian dengan sistem level, ranking aktual antar-pengguna
 
 Dibuat oleh **aiproxcrop**.
 
-## Deploy ke Vercel
 
-### 1. Siapkan repository
-
-```bash
-git init
-git add .
-git commit -m "init"
